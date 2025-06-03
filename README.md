@@ -5,6 +5,7 @@
 
 
 **P1**
+
 **Uploaded csv file to hdfs using hdfs commands in dataproc cluster**
   created directory to store csv file
   moved csv file from local into hdfs directory
@@ -30,6 +31,7 @@
 
 
 **P2**
+
 **Uploaded CSV File to GCS Bucket**
   Created a Cloud Storage bucket to act as the data source.
   Uploaded sample CSV files periodically to simulate real-time ingestion.
